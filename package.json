@@ -1,18 +1,19 @@
 {
-  "name": "gemini-chatbot",
+  "name": "dc-buddy-chatbot",
   "version": "0.1.0",
   "private": true,
-  "description": "Een Next.js template met Gemini AI integratie, geoptimaliseerd voor Bolt + Netlify deployment",
+  "description": "DC Buddy - Educatieve chatbot voor HBO studenten om distributiecentra te ontdekken",
   "keywords": [
     "nextjs",
     "gemini",
     "ai",
     "chatbot",
-    "netlify",
-    "bolt",
-    "typescript"
+    "logistiek",
+    "distributiecentrum",
+    "onderwijs",
+    "hbo"
   ],
-  "author": "Tom Naberink",
+  "author": "DC Buddy Team",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

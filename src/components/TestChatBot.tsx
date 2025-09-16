@@ -707,10 +707,10 @@ export default function TestChatBot() {
   return (
     <div className="bg-purple-50 border border-purple-200 rounded-xl p-6">
       <h3 className="text-lg font-semibold text-purple-800 mb-4 flex items-center">
-        <span className="w-6 h-6 bg-purple-600 rounded-full flex items-center justify-center mr-2">
-          <span className="text-white text-sm">💬</span>
+        <span className="w-6 h-6 bg-orange-600 rounded-full flex items-center justify-center mr-2">
+          <span className="text-white text-sm">👷‍♂️</span>
         </span>
-        Test je API Key
+        Chat met Marco - Jouw DC Buddy
       </h3>
       
       <div className="space-y-4">
